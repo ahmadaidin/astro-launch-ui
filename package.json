@@ -31,6 +31,7 @@
   "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
   "license": "MIT",
   "dependencies": {
+    "@astrojs/cloudflare": "^12.6.0",
     "@astrojs/react": "^4.2.2",
     "@astrojs/tailwind": "^6.0.2",
     "@heroicons/react": "^2.0.16",
